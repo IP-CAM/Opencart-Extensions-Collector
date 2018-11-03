@@ -1,0 +1,4 @@
+config-dist.php
+upload/install/language/en-gb/common/column_left.php
+upload/install/language/en-gb/common/footer.php
+upload/install/language/en-gb/upgrade/upgrade.php
